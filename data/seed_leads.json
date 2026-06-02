@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Maya Chen",
+    "title": "Senior Product Manager",
+    "company": "Driftwave AI",
+    "industry": "Artificial Intelligence",
+    "region": "United States",
+    "location": "San Francisco, CA",
+    "email": "maya.chen@driftwave.ai",
+    "linkedin": "https://www.linkedin.com/in/mayachen-pm",
+    "source": "seed"
+  },
+  {
+    "name": "Daniel Okafor",
+    "title": "Group Product Manager",
+    "company": "Nimbus Labs",
+    "industry": "Machine Learning",
+    "region": "United States",
+    "location": "New York, NY",
+    "email": "daniel.okafor@nimbuslabs.io",
+    "linkedin": "https://www.linkedin.com/in/danielokafor",
+    "source": "seed"
+  },
+  {
+    "name": "Priya Nair",
+    "title": "Head of Product",
+    "company": "Vectorly",
+    "industry": "AI Infrastructure",
+    "region": "United States",
+    "location": "Austin, TX",
+    "email": "priya@vectorly.com",
+    "linkedin": "https://www.linkedin.com/in/priyanair-product",
+    "source": "seed"
+  },
+  {
+    "name": "Tomás Rivera",
+    "title": "Product Manager",
+    "company": "Hearthtone",
+    "industry": "Generative AI",
+    "region": "United States",
+    "location": "Seattle, WA",
+    "email": "tomas.rivera@hearthtone.ai",
+    "linkedin": "https://www.linkedin.com/in/tomasrivera",
+    "source": "seed"
+  },
+  {
+    "name": "Aisha Bello",
+    "title": "VP of Product",
+    "company": "Quantal",
+    "industry": "Artificial Intelligence",
+    "region": "United States",
+    "location": "Boston, MA",
+    "email": "aisha.bello@quantal.ai",
+    "linkedin": "https://www.linkedin.com/in/aishabello",
+    "source": "seed"
+  },
+  {
+    "name": "Liam Walsh",
+    "title": "Associate Product Manager",
+    "company": "Brightloop",
+    "industry": "SaaS",
+    "region": "United States",
+    "location": "Denver, CO",
+    "email": "liam.walsh@brightloop.com",
+    "linkedin": "https://www.linkedin.com/in/liamwalsh",
+    "source": "seed"
+  },
+  {
+    "name": "Sofia Martinez",
+    "title": "Director of Product",
+    "company": "Synthly",
+    "industry": "Generative AI",
+    "region": "United States",
+    "location": "Los Angeles, CA",
+    "email": "sofia@synthly.ai",
+    "linkedin": "https://www.linkedin.com/in/sofiamartinez-pm",
+    "source": "seed"
+  },
+  {
+    "name": "Ethan Brooks",
+    "title": "Founder & CEO",
+    "company": "Loomos",
+    "industry": "AI Agents",
+    "region": "United States",
+    "location": "San Francisco, CA",
+    "email": "ethan@loomos.ai",
+    "linkedin": "https://www.linkedin.com/in/ethanbrooks",
+    "source": "seed"
+  },
+  {
+    "name": "Hannah Schmidt",
+    "title": "Product Manager",
+    "company": "Greycell Analytics",
+    "industry": "Data Analytics",
+    "region": "United States",
+    "location": "Chicago, IL",
+    "email": "hannah.schmidt@greycell.io",
+    "linkedin": "https://www.linkedin.com/in/hannahschmidt",
+    "source": "seed"
+  },
+  {
+    "name": "Marcus Lee",
+    "title": "Senior Product Manager, AI",
+    "company": "Foundry Stack",
+    "industry": "AI Infrastructure",
+    "region": "United States",
+    "location": "Palo Alto, CA",
+    "email": "marcus.lee@foundrystack.com",
+    "linkedin": "https://www.linkedin.com/in/marcuslee-ai",
+    "source": "seed"
+  },
+  {
+    "name": "Olivia Grant",
+    "title": "Chief Product Officer",
+    "company": "Aperture AI",
+    "industry": "Artificial Intelligence",
+    "region": "United States",
+    "location": "San Diego, CA",
+    "email": "olivia.grant@aperture.ai",
+    "linkedin": "https://www.linkedin.com/in/oliviagrant",
+    "source": "seed"
+  },
+  {
+    "name": "Noah Kim",
+    "title": "Product Lead",
+    "company": "Tensorpath",
+    "industry": "Machine Learning",
+    "region": "United States",
+    "location": "Mountain View, CA",
+    "email": "noah.kim@tensorpath.ai",
+    "linkedin": "https://www.linkedin.com/in/noahkim-product",
+    "source": "seed"
+  },
+  {
+    "name": "Grace Thompson",
+    "title": "Marketing Manager",
+    "company": "Brightloop",
+    "industry": "SaaS",
+    "region": "United States",
+    "location": "Denver, CO",
+    "email": "grace.thompson@brightloop.com",
+    "linkedin": "https://www.linkedin.com/in/gracethompson",
+    "source": "seed"
+  },
+  {
+    "name": "Raj Patel",
+    "title": "Product Manager",
+    "company": "Cobalt Systems",
+    "industry": "Cloud Infrastructure",
+    "region": "United States",
+    "location": "Atlanta, GA",
+    "email": "raj.patel@cobaltsystems.com",
+    "linkedin": "https://www.linkedin.com/in/rajpatel-pm",
+    "source": "seed"
+  },
+  {
+    "name": "Emma Clarke",
+    "title": "Senior Product Manager",
+    "company": "Northwind Robotics",
+    "industry": "Robotics & AI",
+    "region": "United States",
+    "location": "Pittsburgh, PA",
+    "email": "emma.clarke@northwindrobotics.com",
+    "linkedin": "https://www.linkedin.com/in/emmaclarke",
+    "source": "seed"
+  },
+  {
+    "name": "Lucas Moreau",
+    "title": "Engineering Manager",
+    "company": "Driftwave AI",
+    "industry": "Artificial Intelligence",
+    "region": "Canada",
+    "location": "Toronto, ON",
+    "email": "lucas.moreau@driftwave.ai",
+    "linkedin": "https://www.linkedin.com/in/lucasmoreau",
+    "source": "seed"
+  },
+  {
+    "name": "Zoe Adams",
+    "title": "Product Manager",
+    "company": "Helix Labs",
+    "industry": "Generative AI",
+    "region": "United States",
+    "location": "Remote, US",
+    "email": "zoe.adams@helixlabs.ai",
+    "linkedin": "https://www.linkedin.com/in/zoeadams",
+    "source": "seed"
+  },
+  {
+    "name": "Benjamin Carter",
+    "title": "VP of Engineering",
+    "company": "Quantal",
+    "industry": "Artificial Intelligence",
+    "region": "United States",
+    "location": "Boston, MA",
+    "email": "ben.carter@quantal.ai",
+    "linkedin": "https://www.linkedin.com/in/bencarter",
+    "source": "seed"
+  },
+  {
+    "name": "Isabella Rossi",
+    "title": "Principal Product Manager",
+    "company": "Lumen AI",
+    "industry": "AI Agents",
+    "region": "United States",
+    "location": "San Francisco, CA",
+    "email": "isabella.rossi@lumen.ai",
+    "linkedin": "https://www.linkedin.com/in/isabellarossi",
+    "source": "seed"
+  },
+  {
+    "name": "Oliver Hughes",
+    "title": "Sales Director",
+    "company": "Greycell Analytics",
+    "industry": "Data Analytics",
+    "region": "United Kingdom",
+    "location": "London, UK",
+    "email": "oliver.hughes@greycell.io",
+    "linkedin": "https://www.linkedin.com/in/oliverhughes",
+    "source": "seed"
+  }
+]

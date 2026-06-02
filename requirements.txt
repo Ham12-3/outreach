@@ -1,0 +1,15 @@
+# Outreach Operations Agent - Python dependencies
+#
+# Core: Google Agent Development Kit (ADK). It pulls in google-genai (the
+# Gemini client) and the `mcp` package used for the MongoDB MCP toolset.
+google-adk>=1.2.0
+
+# Model Context Protocol client types (StdioServerParameters). Usually installed
+# transitively by google-adk, but pinned here so the import is guaranteed.
+mcp>=1.5.0
+
+# Loads variables from the .env file (connection string, project, model, etc.).
+python-dotenv>=1.0.1
+
+# Test runner for the deterministic logic (scoring / drafting / seed).
+pytest>=8.0.0
